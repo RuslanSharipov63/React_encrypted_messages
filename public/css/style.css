@@ -1,0 +1,47 @@
+body {
+    font-size: 120%;
+}
+
+
+.hide {
+    display: none;
+}
+
+
+.active {
+    color: orange;
+}
+
+ul {
+    margin: 0 auto; 
+    padding: 4px; 
+   }
+
+li {
+    display: inline;
+    margin-right: 5px; 
+    padding: 3px;
+}
+
+h3, h4 {
+    text-align: center;
+    color: grey;
+    padding-top: 10px;
+}
+
+.main {
+    background-color:#2F4F4F;
+    max-width: 800px;
+    margin: 80px auto;
+    border-radius: 5px;
+    min-height: 150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+label {
+    text-align: center;
+}
+
